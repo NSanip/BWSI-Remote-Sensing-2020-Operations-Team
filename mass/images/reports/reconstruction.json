@@ -1,0 +1,9 @@
+{
+    "num_candidate_image_pairs": 0,
+    "reconstructions": [],
+    "wall_times": {
+        "compute_image_pairs": 0.00034830498043447733,
+        "compute_reconstructions": 0.00010778196156024933
+    },
+    "not_reconstructed_images": []
+}

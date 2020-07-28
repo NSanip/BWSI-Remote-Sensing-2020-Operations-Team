@@ -1,0 +1,16 @@
+{
+    "make": "NIKON CORPORATION",
+    "model": "NIKON D7100",
+    "width": 6000,
+    "height": 4000,
+    "projection_type": "perspective",
+    "focal_ratio": 2.8333333333333335,
+    "orientation": 1,
+    "capture_time": 1520195280.0,
+    "gps": {
+        "latitude": 42.084781666666665,
+        "longitude": -70.62644833333333,
+        "altitude": 467.0
+    },
+    "camera": "v2 nikon corporation nikon d7100 6000 4000 perspective 2.8333"
+}
