@@ -1,0 +1,15 @@
+
+# OpenSfM will use the default parameters from opensfm/config.py
+# Set here any parameter that you want to override for this dataset
+# For example:
+depthmap_min_consistent_views: 2      # Min number of views that should reconstruct a point for it to be valid
+depthmap_save_debug_files: yes        # Save debug files with partial reconstruction results
+feature_process_size: 1024
+
+matching_gps_distance: 300            # Maximum gps distance between two images for matching
+matching_gps_neighbors: 2             # Number of images to match selected by GPS distance. Set to 0 to use no limit (or disable if matching_gps_distance is also 0)
+matching_time_neighbors: 2            # Number of images to match selected by time taken. Set to 0 to disable
+use_altitude_tag: yes                 # Use or ignore EXIF altitude tag
+align_method: orientation_prior       # orientation_prior or naive
+align_orientation_prior: plane_based   # horizontal, vertical or no_roll UPDATED: added plane_based
+bundle_use_gps: yes                   # Enforce GPS position in bundle adjustment
