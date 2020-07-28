@@ -1,2 +1,1 @@
-This is a readme - YAY!
-Gabe was here!
+This is a readme - Gabe was not here... Yash says Yipee!
