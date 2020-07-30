@@ -1,255 +1,255 @@
 {
-    "wall_time": 122.02789703500457,
+    "wall_time": 0.003735774000233505,
     "image_reports": [
         {
-            "image": "36.jpg",
-            "num_features": 5056,
-            "wall_time": 2.324278009007685
-        },
-        {
-            "image": "43.jpg",
-            "num_features": 5135,
-            "wall_time": 2.271397290052846
-        },
-        {
-            "image": "6.jpg",
-            "num_features": 5169,
-            "wall_time": 2.652977221063338
-        },
-        {
-            "image": "49.jpg",
-            "num_features": 5337,
-            "wall_time": 2.263934065005742
-        },
-        {
-            "image": "33.jpg",
-            "num_features": 4925,
-            "wall_time": 2.3286037150537595
+            "image": "9.jpg",
+            "num_features": 4880,
+            "wall_time": 2.027917658997467
         },
         {
             "image": "26.jpg",
-            "num_features": 4977,
-            "wall_time": 2.3399295429699123
-        },
-        {
-            "image": "25.jpg",
-            "num_features": 5000,
-            "wall_time": 2.335734647931531
-        },
-        {
-            "image": "8.jpg",
-            "num_features": 5084,
-            "wall_time": 2.671699287951924
-        },
-        {
-            "image": "18.jpg",
-            "num_features": 4907,
-            "wall_time": 2.2925071079516783
-        },
-        {
-            "image": "34.jpg",
-            "num_features": 4949,
-            "wall_time": 2.329492261982523
-        },
-        {
-            "image": "3.jpg",
-            "num_features": 4940,
-            "wall_time": 2.661305964924395
-        },
-        {
-            "image": "38.jpg",
-            "num_features": 5031,
-            "wall_time": 2.280147720943205
-        },
-        {
-            "image": "19.jpg",
-            "num_features": 4837,
-            "wall_time": 2.2780025879619643
-        },
-        {
-            "image": "29.jpg",
-            "num_features": 5086,
-            "wall_time": 2.38950379693415
-        },
-        {
-            "image": "44.jpg",
-            "num_features": 5011,
-            "wall_time": 2.4169045919552445
-        },
-        {
-            "image": "24.jpg",
-            "num_features": 4959,
-            "wall_time": 2.399232267984189
-        },
-        {
-            "image": "2.jpg",
-            "num_features": 5035,
-            "wall_time": 2.723831210983917
-        },
-        {
-            "image": "16.jpg",
-            "num_features": 4969,
-            "wall_time": 2.7686611419776455
-        },
-        {
-            "image": "37.jpg",
-            "num_features": 5105,
-            "wall_time": 2.347188954008743
-        },
-        {
-            "image": "46.jpg",
-            "num_features": 4981,
-            "wall_time": 2.3001251440728083
-        },
-        {
-            "image": "4.jpg",
-            "num_features": 5019,
-            "wall_time": 2.658129460993223
-        },
-        {
-            "image": "41.jpg",
-            "num_features": 5192,
-            "wall_time": 2.2855218580225483
-        },
-        {
-            "image": "22.jpg",
-            "num_features": 5063,
-            "wall_time": 2.3401225940324366
-        },
-        {
-            "image": "0.jpg",
-            "num_features": 5025,
-            "wall_time": 2.61475233908277
-        },
-        {
-            "image": "31.jpg",
-            "num_features": 5014,
-            "wall_time": 2.2659041529987007
-        },
-        {
-            "image": "15.jpg",
-            "num_features": 4968,
-            "wall_time": 2.713925334974192
-        },
-        {
-            "image": "7.jpg",
-            "num_features": 5175,
-            "wall_time": 2.6954593199770898
-        },
-        {
-            "image": "30.jpg",
-            "num_features": 5066,
-            "wall_time": 2.3283052319893613
-        },
-        {
-            "image": "11.jpg",
-            "num_features": 4998,
-            "wall_time": 2.6645932509563863
-        },
-        {
-            "image": "20.jpg",
-            "num_features": 4854,
-            "wall_time": 2.3201222240459174
-        },
-        {
-            "image": "27.jpg",
-            "num_features": 5036,
-            "wall_time": 2.334316662978381
-        },
-        {
-            "image": "32.jpg",
-            "num_features": 4971,
-            "wall_time": 2.372103738016449
-        },
-        {
-            "image": "5.jpg",
-            "num_features": 5136,
-            "wall_time": 2.737599138985388
-        },
-        {
-            "image": "21.jpg",
-            "num_features": 4905,
-            "wall_time": 2.2506685549160466
-        },
-        {
-            "image": "48.jpg",
-            "num_features": 5336,
-            "wall_time": 2.3292705040657893
+            "num_features": 4800,
+            "wall_time": 1.6174176290005562
         },
         {
             "image": "14.jpg",
-            "num_features": 4946,
-            "wall_time": 2.6243998350109905
+            "num_features": 4786,
+            "wall_time": 2.0721020370001497
         },
         {
-            "image": "12.jpg",
-            "num_features": 5041,
-            "wall_time": 2.628353407024406
+            "image": "16.jpg",
+            "num_features": 4867,
+            "wall_time": 2.0267976070026634
         },
         {
-            "image": "9.jpg",
-            "num_features": 4966,
-            "wall_time": 2.6978298400063068
+            "image": "43.jpg",
+            "num_features": 4909,
+            "wall_time": 1.6506180020005559
+        },
+        {
+            "image": "30.jpg",
+            "num_features": 4916,
+            "wall_time": 1.6536312499993073
         },
         {
             "image": "23.jpg",
-            "num_features": 5056,
-            "wall_time": 2.281491893925704
+            "num_features": 4880,
+            "wall_time": 1.6557569060023525
+        },
+        {
+            "image": "12.jpg",
+            "num_features": 4880,
+            "wall_time": 2.072786984997947
         },
         {
             "image": "10.jpg",
-            "num_features": 5003,
-            "wall_time": 2.692128123017028
+            "num_features": 4870,
+            "wall_time": 2.073345191001863
         },
         {
-            "image": "40.jpg",
-            "num_features": 5059,
-            "wall_time": 2.3050906759453937
-        },
-        {
-            "image": "35.jpg",
-            "num_features": 4965,
-            "wall_time": 2.3210572089301422
-        },
-        {
-            "image": "47.jpg",
-            "num_features": 5106,
-            "wall_time": 2.3355129160918295
+            "image": "25.jpg",
+            "num_features": 4853,
+            "wall_time": 1.6543138980014191
         },
         {
             "image": "1.jpg",
-            "num_features": 4997,
-            "wall_time": 2.6216287950519472
+            "num_features": 4829,
+            "wall_time": 2.0008035419996304
         },
         {
-            "image": "42.jpg",
-            "num_features": 5121,
-            "wall_time": 2.290869167074561
-        },
-        {
-            "image": "39.jpg",
-            "num_features": 5057,
-            "wall_time": 2.329220446990803
+            "image": "24.jpg",
+            "num_features": 4882,
+            "wall_time": 1.6263993269967614
         },
         {
             "image": "13.jpg",
-            "num_features": 4929,
-            "wall_time": 2.6873087629210204
+            "num_features": 4808,
+            "wall_time": 1.9985987830004888
         },
         {
-            "image": "45.jpg",
+            "image": "4.jpg",
+            "num_features": 4875,
+            "wall_time": 2.0132531589988503
+        },
+        {
+            "image": "22.jpg",
+            "num_features": 4883,
+            "wall_time": 1.6691635889983445
+        },
+        {
+            "image": "21.jpg",
+            "num_features": 4661,
+            "wall_time": 1.6195218940010818
+        },
+        {
+            "image": "35.jpg",
+            "num_features": 4799,
+            "wall_time": 1.626425526003004
+        },
+        {
+            "image": "37.jpg",
+            "num_features": 4839,
+            "wall_time": 1.6231428339997365
+        },
+        {
+            "image": "46.jpg",
+            "num_features": 4858,
+            "wall_time": 1.6583635499991942
+        },
+        {
+            "image": "32.jpg",
+            "num_features": 4832,
+            "wall_time": 1.636409711001761
+        },
+        {
+            "image": "27.jpg",
+            "num_features": 4849,
+            "wall_time": 1.6471505320005235
+        },
+        {
+            "image": "42.jpg",
+            "num_features": 4853,
+            "wall_time": 1.6159208370008855
+        },
+        {
+            "image": "7.jpg",
+            "num_features": 5061,
+            "wall_time": 1.9950340639989008
+        },
+        {
+            "image": "2.jpg",
+            "num_features": 4807,
+            "wall_time": 1.987358372000017
+        },
+        {
+            "image": "38.jpg",
+            "num_features": 4901,
+            "wall_time": 1.6248996860012994
+        },
+        {
+            "image": "0.jpg",
+            "num_features": 4779,
+            "wall_time": 1.9991378269987763
+        },
+        {
+            "image": "18.jpg",
+            "num_features": 4708,
+            "wall_time": 1.634872868002276
+        },
+        {
+            "image": "41.jpg",
+            "num_features": 4892,
+            "wall_time": 1.612405749001482
+        },
+        {
+            "image": "6.jpg",
+            "num_features": 4966,
+            "wall_time": 1.9835793259990169
+        },
+        {
+            "image": "19.jpg",
+            "num_features": 4646,
+            "wall_time": 1.6106895730008546
+        },
+        {
+            "image": "15.jpg",
+            "num_features": 4828,
+            "wall_time": 2.001964434999536
+        },
+        {
+            "image": "11.jpg",
+            "num_features": 4877,
+            "wall_time": 2.0159250709984917
+        },
+        {
+            "image": "48.jpg",
             "num_features": 4934,
-            "wall_time": 2.301070633926429
+            "wall_time": 1.6413553700003831
+        },
+        {
+            "image": "33.jpg",
+            "num_features": 4786,
+            "wall_time": 1.628432375000557
+        },
+        {
+            "image": "49.jpg",
+            "num_features": 4878,
+            "wall_time": 1.6235304870024265
+        },
+        {
+            "image": "40.jpg",
+            "num_features": 4844,
+            "wall_time": 1.630982448998111
+        },
+        {
+            "image": "31.jpg",
+            "num_features": 4847,
+            "wall_time": 1.6921131019989843
+        },
+        {
+            "image": "44.jpg",
+            "num_features": 4778,
+            "wall_time": 1.6529537520000304
+        },
+        {
+            "image": "36.jpg",
+            "num_features": 4789,
+            "wall_time": 1.61663147100262
+        },
+        {
+            "image": "3.jpg",
+            "num_features": 4845,
+            "wall_time": 1.9862504519987851
+        },
+        {
+            "image": "34.jpg",
+            "num_features": 4768,
+            "wall_time": 1.6238384489988675
         },
         {
             "image": "28.jpg",
-            "num_features": 5076,
-            "wall_time": 2.317764400038868
+            "num_features": 4844,
+            "wall_time": 1.6574221959999704
+        },
+        {
+            "image": "39.jpg",
+            "num_features": 4923,
+            "wall_time": 1.6502164250014175
+        },
+        {
+            "image": "29.jpg",
+            "num_features": 4888,
+            "wall_time": 1.6660213879986259
+        },
+        {
+            "image": "8.jpg",
+            "num_features": 4809,
+            "wall_time": 1.9913290389995382
+        },
+        {
+            "image": "20.jpg",
+            "num_features": 4610,
+            "wall_time": 1.6058539570003632
+        },
+        {
+            "image": "45.jpg",
+            "num_features": 4791,
+            "wall_time": 1.6469765570000163
+        },
+        {
+            "image": "5.jpg",
+            "num_features": 4938,
+            "wall_time": 2.0235156849994382
         },
         {
             "image": "17.jpg",
-            "num_features": 4812,
-            "wall_time": 2.2900013730395585
+            "num_features": 4663,
+            "wall_time": 1.643424354999297
+        },
+        {
+            "image": "47.jpg",
+            "num_features": 4832,
+            "wall_time": 1.6232091820020287
         }
     ]
 }
