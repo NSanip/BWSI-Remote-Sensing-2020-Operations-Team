@@ -1,5 +1,3 @@
-This is a readme - Gabe was not here... Yash says Yipee! Edited
-
 # Operations team
 ## Situational Awareness
 ### Deep Learning Classifier
